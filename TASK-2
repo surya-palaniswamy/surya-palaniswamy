@@ -1,0 +1,52 @@
+int led = 10;
+int button = 8;
+boolean last = LOW;
+boolean current = HIGH;
+int time;
+
+void setup()
+{
+  pinMode(led, OUTPUT);
+  pinMode(button, INPUT);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  int t;
+  int reading = digitalRead(button);
+  if(last!=reading)
+  {
+    delay(10);
+    reading = digitalRead(button);
+  }
+  
+ current = reading;
+ 
+ if(current == HIGH)
+ {
+   delay(1);
+   time++;
+   
+ }
+ 
+ else
+ {
+   digitalWrite(led, HIGH);
+   delay(time);
+   digitalWrite(led, LOW);
+   delay(time);
+   Serial.println("Press now for execution time");
+ }
+ 
+ 
+ 
+ if( last == LOW && current == HIGH)
+ {
+   time = 0;
+ }
+ 
+ last = current;
+ 
+}
+   
