@@ -1,6 +1,7 @@
 # Heyo, surya-palaniswamy here. Wuss poppin?
 
 I am currently working on projects to busy myself while my admission to masters program is finalised
+
 I am deeply interested in
    - Computer Vision (know the basics enough to google my way through projects for now 🥲)
    - Artificial intelligence (I know it's broad but rn I have not trained myself to focus on one. Eventually hopefully!)
@@ -19,4 +20,4 @@ P.S. Something interesting I recently came across: https://hyperpolyglot.org/
 ![](https://img.shields.io/badge/-Python-informational?logo=Python&color=9F9393)
 
 LinkedIn: https://www.linkedin.com/in/surya-palaniswamy/ \
-Email: surya.palaniswamy.98@gmail.com \
+Email: surya.palaniswamy.98@gmail.com
