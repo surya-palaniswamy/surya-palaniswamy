@@ -12,9 +12,9 @@ My current work (with no defined order or importance) are:
    - Learning DSA through C++
 
 
-## Something cool/interesting I recently came across:
-Markup : - [ ] [Learning language](https://hyperpolyglot.org/)
-         - [ ] [Learning Git](https://learngitbranching.js.org/)
+### Something cool/interesting I recently came across:
+- [ ] https://hyperpolyglot.org/
+- [ ] https://learngitbranching.js.org/
 
 
 ![surya-palaniswamy's github stats](https://github-readme-stats.vercel.app/api?username=surya-palaniswamy&show_icons=true&theme=radical&count_private=true)
