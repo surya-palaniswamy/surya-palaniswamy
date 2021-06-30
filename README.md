@@ -13,8 +13,8 @@ My current work (with no defined order or importance) are:
 
 
 P.S. Something cool/interesting I recently came across:
-     - [ ] [Learning language](https://hyperpolyglot.org/)
-     - [ ] [Learning Git](https://learngitbranching.js.org/)
+          - [ ] [Learning language](https://hyperpolyglot.org/)
+          - [ ] [Learning Git](https://learngitbranching.js.org/)
 
 
 ![surya-palaniswamy's github stats](https://github-readme-stats.vercel.app/api?username=surya-palaniswamy&show_icons=true&theme=radical&count_private=true)
