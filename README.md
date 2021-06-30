@@ -12,8 +12,7 @@ My current work (with no defined order or importance) are:
    - Learning DSA through C++
 
 
-P.S. Something cool/interesting I recently came across:
-
+## Something cool/interesting I recently came across:
 Markup : - [ ] [Learning language](https://hyperpolyglot.org/)
          - [ ] [Learning Git](https://learngitbranching.js.org/)
 
