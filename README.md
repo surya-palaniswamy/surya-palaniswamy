@@ -18,6 +18,7 @@ My current work (with no defined order or importance) are:
 
 
 ![surya-palaniswamy's github stats](https://github-readme-stats.vercel.app/api?username=surya-palaniswamy&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edithturn&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/-Python-informational?logo=Python&color=9F9393)
 
