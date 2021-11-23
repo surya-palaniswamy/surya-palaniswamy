@@ -7,9 +7,8 @@ I am deeply interested in
    - Artificial intelligence (I know it's broad but rn I have not trained myself to focus on one. Eventually hopefully!)
 
 My current work (with no defined order or importance) are:
-   - Discord bots
-   - Learning ML techniques from scratch
-   - Learning DSA through C++
+   - Currently figuring out a new hobby project to work on
+   - Learning DSA through C++/Java
 
 
 ### Something cool/interesting I recently came across:
